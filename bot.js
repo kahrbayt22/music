@@ -18,6 +18,7 @@ const { Client, Util } = require('discord.js');
 const getYoutubeID = require('get-youtube-id');
 const fetchVideoInfo = require('youtube-info');
 const YouTube = require('simple-youtube-api');
+const ffmpeg = require('ffmpeg');
 const youtube = new YouTube("AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4");
 const queue = new Map();
 const client = new Discord.Client();
