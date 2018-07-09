@@ -38,7 +38,7 @@
     "sqlite": "^2.9.1",
     "ascii-data-table": "^2.1.1",
     "discord-spoiler-bot": "^2.0.5",
-    "fortnite": "^4.1.1",
+    "queue": "^4.1.1",
     "get-youtube-id": "^1.0.0",
     "youtube-info":"^1.2.0",
     "ffmpeg":"^0.0.4",
